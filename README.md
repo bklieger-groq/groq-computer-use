@@ -1,6 +1,6 @@
 # Open Computer Use
 
-A secure cloud Linux computer powered by [E2B Desktop Sandbox](https://github.com/e2b-dev/desktop/) and controlled by open-source LLMs.
+A secure cloud Linux computer powered by [E2B Desktop Sandbox](https://github.com/e2b-dev/desktop/) and controlled by Llama 3.3 70b and Llama 3.2 90b running lightning fast on Groq.
 
 https://github.com/user-attachments/assets/3837c4f6-45cb-43f2-9d51-a45f742424d4
 
